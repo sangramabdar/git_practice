@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+hi i am feature-1
+=======
 hi i am feature-2
+>>>>>>> feature-2
 
