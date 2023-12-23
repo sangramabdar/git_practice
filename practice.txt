@@ -1,8 +1,4 @@
 
-<<<<<<< HEAD
 hi i am feature-1.5
-=======
-hi i am feature-1.6
->>>>>>> master
 
 
